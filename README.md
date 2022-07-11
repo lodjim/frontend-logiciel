@@ -1,7 +1,7 @@
 
 # Frontend logiciel pour trouver des articles
 
-il s'agit de la parti front du logiciel pour trouver des articles sur
+il s'agit de la partie front du logiciel pour trouver des articles sur
 internet 
 
 
